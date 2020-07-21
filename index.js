@@ -1,0 +1,1 @@
+let scroll = $('#scroll-bar');
